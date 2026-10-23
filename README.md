@@ -4,7 +4,7 @@ Travaux pratiques du cours *NLP et Transformers* (CY Tech, annee 2026-2027).
 
 Tous les TP utilisent le corpus **Tiny Shakespeare**.
 
-## Serie A - NLP classique
+## Cours Partie 1 NLP
 
 | Notebook | Sujet |
 |----------|-------|
@@ -12,7 +12,7 @@ Tous les TP utilisent le corpus **Tiny Shakespeare**.
 | `TP2_NLP_deep_learning.ipynb` | Comparaison TF-IDF + regression logistique contre embeddings + LSTM |
 | `TP3_NLP_prompting.ipynb` | Classification par prompting (zero-shot / few-shot) et parametres de decodage |
 
-## Serie B - Mini-Transformer
+## Cours Partie 2 Mini-Transformer
 
 | Notebook | Sujet |
 |----------|-------|
